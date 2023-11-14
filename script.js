@@ -4,5 +4,5 @@ button.addEventListener('click', function() {
     console.log('click!!!');
 });
 
+//importa esto en el index.html
 
-import {  } from "module";
